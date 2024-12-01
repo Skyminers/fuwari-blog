@@ -1,9 +1,7 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
+你好，我是 Sky_miner，喜欢折腾各种东西。这个博客是我用来记录一些技术和生活的地方，希望点进来的你有从中收获到你需要的信息。如果想要联系我，可以在侧边栏获取我的联系方式。
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+## 关于这个博客
+
+这个博客是基于 [Astro](https://astro.build), [Fuwari](https://github.com/Skyminers/fuwari-blog) 构建的。
