@@ -1,5 +1,5 @@
 ---
-published: 2024-12-2
+published: 2024-12-02
 title: Linux 命令记录
 tags: [Linux]
 category: 工具
