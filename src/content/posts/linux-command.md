@@ -2,7 +2,7 @@
 published: 2024-12-02
 title: Linux 命令记录
 tags: [Linux]
-category: 工具
+category: Tools
 description: Linux 操作手册记录
 ---
 

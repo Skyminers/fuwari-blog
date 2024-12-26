@@ -2,7 +2,7 @@
 published: 2024-12-06
 title: Astro 添加 LaTeX 支持
 tags: [Blog]
-category: 方法记录
+category: Methods
 description: 记录了为 astro 添加 LaTeX 支持的方法
 ---
 

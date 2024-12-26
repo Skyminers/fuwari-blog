@@ -2,8 +2,8 @@
 title: 面试 Cheat Book
 published: 2024-08-04
 description: 网上总结的面试 Cheat Book
-tags: [C++, Python, 算法]
-category: 算法
+tags: [C++, Python, Algorithm]
+category: Algorithm
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 published: 2024-07-30T21:04:31.000+08:00
 title: 用 Python 实现决策树
-tags: [Python, 决策树]
+tags: [Python]
 category: AI
 description: 使用 Python 实现决策树的简单版本，用于理解决策树的基本原理。
 ---

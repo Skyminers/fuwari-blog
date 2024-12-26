@@ -2,7 +2,7 @@
 published: 2024-08-26
 title: LeetCode 热题 100 全部题目一句话题解
 tags: [C++, leetcode]
-category: 算法
+category: Algorithm
 description: LeetCode 热题 100 一句话题解集，简要概括题目思路解法，也会提供对应代码。
 ---
 

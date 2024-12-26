@@ -2,8 +2,8 @@
 published: 2024-08-23
 # modDatetime:
 title: 一起来理解 AUC
-tags: [C++, Python, 算法, 机器学习]
-category: 机器学习
+tags: [C++, Python, Algorithm, Machine Learning]
+category: Machine Learning
 description: 在机器学习的评估指标中，AUC 是最常见也最常用的指标之一。本文是对 AUC 的概念和计算方法的简单介绍。
 ---
 

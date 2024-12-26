@@ -1,7 +1,7 @@
 ---
 published: 2024-08-13
 title: ResNet 面试突击
-tags: [Python, Resnet, 面试]
+tags: [Python, Resnet, Interview]
 category: AI
 description: 简单描述了 ResNet 的结构，以及一些常见的问题。
 ---

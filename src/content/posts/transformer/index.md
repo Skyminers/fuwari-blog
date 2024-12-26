@@ -1,7 +1,7 @@
 ---
 published: 2024-08-23
 title: Transformer 面试突击
-tags: [Python, Transformer, 面试]
+tags: [Python, Transformer, Interview]
 category: AI 
 description: 简单描述了一些 Transformer 的结构，以及一些常见的问题。
 ---

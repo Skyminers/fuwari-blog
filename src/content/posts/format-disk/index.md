@@ -3,7 +3,7 @@ published: 2024-07-30T01:03:00+08:00
 # modDatetime: 2023-12-21T09:12:47.400Z
 title: 在 MacOS 中格式化 U 盘
 tags: [MacOS]
-category: 方法记录
+category: Methods
 description: 记录了在 MacOS 下格式化 U 盘的方法
 ---
 

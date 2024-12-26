@@ -2,7 +2,7 @@
 published: 2024-10-10
 title: 从零开始美化 VScode
 tags: [vscode]
-category: 工具
+category: Tools
 description: 从零开始，配置并获得一个全新的 VScode
 ---
 
